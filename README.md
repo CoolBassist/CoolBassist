@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![CoolBassist's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolBassist)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+See things that Im working on below!
