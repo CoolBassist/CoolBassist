@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my GitHub page!
 ---
-I enjoy many facets of computer science and programming, but I especially enjoy low level programming, such as assembly, C, or [even creating my own CPU and designing a machine code language for it](https://github.com/CoolBassist/Homebrew-computer). When I'm not getting close to the metal, I mostly program in Python and C++ both for their power, and ease of syntax. 
+I enjoy many facets of computer science and programming, but I especially enjoy low level programming, such as assembly, C++, or [even creating my own CPU and designing a machine code language for it](https://github.com/CoolBassist/Homebrew-computer). When I'm not getting close to the metal, I mostly program in Python and C++ both for their power, and ease of syntax. 
 
 
 <!--
