@@ -1,8 +1,9 @@
 ### Hi there 👋
 Welcome to my GitHub page!
 ---
-I enjoy many facets of computer science and programming, but I especially enjoy learning about low level programming, such as assembly, C, retro computing, and [even creating my own CPU and designing a machine code language for it](https://github.com/CoolBassist/Homebrew-computer). I mostly program in Python and C++ both for their power, and ease of syntax. 
+I enjoy many facets of computer science and programming, but I especially enjoy learning about low level programming, such as assembly, C, retro computing, and [even creating my own CPU and designing a machine code language for it](https://github.com/CoolBassist/Final-year-project). I mostly program in Python and C++ both for their power, and ease of syntax. 
 
+I have just finished my bachelors degree in Computer Science, my thesis topic was "Designing and Simulating a CPU". And I am currently looking for a job within the software development sector.
 
 <!--
 **CoolBassist/CoolBassist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
